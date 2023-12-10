@@ -1,0 +1,6 @@
+The CSV file is too big to upload into github (>100 MB)
+
+Please refer to the following google drive link to access the cleaned dataset.
+Once you save the files into "data" folder, the notebooks will work fine.
+
+Link: https://drive.google.com/drive/folders/1x2YgjcEtaTt5FD3omQCOVF_-CTT6pKue
